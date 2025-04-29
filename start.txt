@@ -2,4 +2,4 @@ Analysis task
 
 fix #1
 
-close it
+closed
